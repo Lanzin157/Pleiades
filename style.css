@@ -1,0 +1,36 @@
+.logo {
+
+}
+
+.menu {
+    color: blue;
+
+}
+
+.cabecalho { 
+align-items: center;
+background-color: rgb(1, 1, 2); 
+display: flex;
+justify-content: space-between;
+padding-left: 2rem;
+padding-right: 2rem;
+
+}
+
+.sla{
+    color:rgb(255, 255, 255);
+          
+      }
+      
+ .black-hole {
+      background-color: rgb(255, 255, 255,0.5);
+  }
+  
+ 
+ color:lista{
+       background: rgb(250, 22, 250);   
+      
+      }
+      .andromeda{
+          background-color: rgb(225, 255, 255,0.5);
+      }
