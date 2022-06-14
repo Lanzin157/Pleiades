@@ -1,4 +1,8 @@
-.logo {
+body {
+    background: url(galaxia.jpeg);
+    background-size: cover;
+    background-repeat: attachement;
+    background-attachment: fixed;
 
 }
 
@@ -27,10 +31,13 @@ padding-right: 2rem;
   }
   
  
- color:lista{
-       background: rgb(250, 22, 250);   
-      
-      }
       .andromeda{
           background-color: rgb(225, 255, 255,0.5);
+      }
+
+
+      .space-time {
+        
+        background-color: rgb(255, 255, 255,0.5);
+
       }
