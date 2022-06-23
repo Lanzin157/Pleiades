@@ -1,5 +1,5 @@
 body {
-    background: url(galaxia.jpeg);
+    background: url(planetas.jpg);
     background-size: cover;
     background-repeat: attachement;
     background-attachment: fixed;
@@ -41,3 +41,25 @@ padding-right: 2rem;
         background-color: rgb(255, 255, 255,0.5);
 
       }
+
+
+h3{
+
+text-align: center;
+
+}
+
+h1{
+
+ text-align: center;   
+
+}
+
+h4{
+
+    text-align: center;   
+}
+
+
+
+
