@@ -1,5 +1,5 @@
 body {
-    background: url(planetas.jpg);
+    background: url(galaxia.jpeg);
     background-size: cover;
     background-repeat: attachement;
     background-attachment: fixed;
@@ -7,7 +7,7 @@ body {
 }
 
 .menu {
-    color: blue;
+    color: rgb(218, 16, 16);
 
 }
 
@@ -68,6 +68,8 @@ h4{
     padding-left: 2rem;
     padding-right: 2rem;
     
+
+
 
 
 
