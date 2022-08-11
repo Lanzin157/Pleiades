@@ -1,5 +1,5 @@
 body {
-    background: url(planetas.jpg);
+    background: url(star.gif);
     background-size: cover;
     background-repeat: attachement;
     background-attachment: fixed;
@@ -42,12 +42,7 @@ padding-right: 2rem;
         background-color: rgb(255, 255, 255,0.5);
 
       }
-h2{
 
-text-decoration: wavy;
-
-
-}
 
 h3{
 text-align: top;
@@ -64,7 +59,9 @@ h1{
 h4{
 
     text-align: center;   
-}
+   
+   }
+
 
 .pecalho { 
     align-items: center;
@@ -74,7 +71,10 @@ h4{
     padding-left: 2rem;
     padding-right: 2rem;
 
+}
 
+.container {
+    display: flex;
+    align-items: center;
 
-
-    
+}
